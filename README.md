@@ -2,15 +2,15 @@
 
 ## Homework 10 
 
-#_Objectives_
+###Objectives
 
-#Code a node.js CLI app that allows you to pass 2 arguments
+###Code a node.js CLI app that allows you to pass 2 arguments
   concert-this <artistname> **"use no spaces"**
   movie-this
   spotify-this-song
   do-what-it-says
 
-#After passing the arguments you will recive the mactching data from one of the following APIs
+###After passing the arguments you will recive the mactching data from one of the following APIs
 
 #utilities used
   node.js
