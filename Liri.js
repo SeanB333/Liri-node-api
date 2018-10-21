@@ -40,7 +40,7 @@ function bit(userInput) {
     artistname = userInput;
     request(`https://rest.bandsintown.com/artists/${artistname}/events?app_id=codingbootcamp&date=upcoming`, { json: true }, function (err, res, body) {
         if (err) throw err
-        const showDate = moment(body[0].datetime).format("DD-MM-YYYY");
+        const showDate = moment(body[0].datetime).format("MM-DD-YYYY");
 
         console.log(chalk.black.bgRed(`==================================================================`));
         console.log("");
