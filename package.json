@@ -18,9 +18,13 @@
   },
   "homepage": "https://github.com/SeanB333/Liri-node-api#readme",
   "dependencies": {
+    "chalk-animation": "^1.6.0",
     "dotenv": "^6.1.0",
+    "kit": "^1.0.26",
     "moment": "^2.22.2",
     "node-spotify-api": "^1.0.7",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "terminal": "^0.1.4",
+    "terminal-kit": "^1.26.4"
   }
 }

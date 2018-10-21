@@ -7,10 +7,8 @@ exports.spotify = {
 
 exports.obmd = {
   id: process.env.OMDB_API,
-  
 };
 
 exports.bit = {
   id: process.env.BIT_API,
-  
 };
