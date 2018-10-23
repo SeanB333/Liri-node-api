@@ -1,6 +1,6 @@
 # Liri-node-api
 
-<<<<<<< HEAD
+
 
 =======
 ## Homework 10 
@@ -21,7 +21,8 @@
   Javascript
   
 #screenshots
+video link: https://drive.google.com/file/d/13n5F2uy-LqGDY0PQskFgnYQLylFXdfl_/view
 
   #and remember NO
->>>>>>> 020494d7f82ad463376d7889c8f77e4e42c9e94f
+
 ![Alt Text](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
